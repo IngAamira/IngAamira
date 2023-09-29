@@ -1,0 +1,16 @@
+h1 {
+text-align: center;
+}
+
+h2, h3 {
+text-align: left;
+}
+
+p {
+text-align: justify;
+}
+
+.images img {
+margin-bottom: 5px;
+padding-right: 5px;
+}

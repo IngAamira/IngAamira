@@ -1,22 +1,5 @@
 
-<style>
-  h1 {
-    text-align: center;
-  }
-
-  h2, h3 {
-    text-align: left;
-  }
-
-  p {
-    text-align: justify;
-  }
-
-  .images img {
-    margin-bottom: 5px;
-    padding-right: 5px;
-  }
-</style>
+<link rel="stylesheet" type="css" href="/css/styles.css">
 
 <h1>Hi there! 👋 I'm Andres Alfonso Mira Mejia - (IngAamira)</h1>
 
