@@ -39,6 +39,9 @@
   If you share my passion for data management, business intelligence, or software development, I would love to connect with you! Together, we can explore new opportunities and challenges in the world of data engineering.
 
   Let's talk! 👥
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingaamira&layout=compact&show_icons=true&text_color=ffffff&bg_color=0d1117)](https://github.com/ingaamira?tab=repositories)
+  
 </h3>
 
 </h3>
