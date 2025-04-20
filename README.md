@@ -1,114 +1,71 @@
-<h3 align="justify">
-<h1 align="center">Hi there! 👋 I'm Andres Alfonso Mira Mejia - (IngAamira)</h1>
+# About Me / Sobre Mí
 
-<h3 align="justify">
-  <p>
-    👨‍💻 Transforming Data into Value 👨‍💻
-  </p>
+💻 I'm a Fullstack Developer with experience designing and developing scalable web applications using Java + Spring Boot, NestJS, and Angular. I’ve contributed to chatbot and AI-driven platforms powered by Natural Language Processing (NLP) and Machine Learning, integrating backend, frontend, and event-driven microservices.
 
-  I'm a Computer Engineer with a profound expertise in Data Engineering, and I am deeply dedicated to harnessing the transformative potential of data.
+🚀 I'm passionate about clean code, automation, and delivering real business value. I work with CI/CD pipelines in Azure DevOps and deploy services on AWS (Lambda, S3, ECS). I follow clean architecture principles (Hexagonal, Onion) and design patterns like MVC to build robust and maintainable systems.
 
-  <p>
-    🚀 My Experience 🚀
-  </p>
+🔧 I also have experience with automated testing, secure development practices, and collaborating with cross-functional teams in agile environments.
 
-  Throughout my career, I've worked in various sectors, including banking, retail, transportation, and tourism. My primary focus has been to help organizations make the most of their data for well-informed strategic decisions. I have designed and optimized databases using technologies like Microsoft SQL Server, MySQL, Oracle, and PostgreSQL. I have also developed data warehouses, datamarts, and customized dashboards.
+🎯 Currently, I’m deepening my frontend skills to provide fully integrated end-to-end solutions.
 
-  <p>
-    💡 My Passion 💡
-  </p>
+Let’s connect if you’re working on anything related to fullstack development, backend architecture, or conversational AI!
 
-  My passion is turning data into actionable knowledge. I believe in the power of data visualization and analysis to drive informed decision-making. I have developed ETLs (Extract, Transform, Load) to facilitate efficient data transfer between systems, enabling process automation and data flow optimization within organizations.
+----
+----
 
-  <p>
-    🌟 My Current Focus 🌟
-  </p>
+💻 Soy Desarrollador Fullstack con experiencia en el diseño y desarrollo de aplicaciones web escalables utilizando Java + Spring Boot, NestJS y Angular. He participado en plataformas conversacionales impulsadas por Procesamiento de Lenguaje Natural (NLP) e Inteligencia Artificial, integrando backend, frontend y microservicios orientados a eventos.
 
-  Currently, I am immersed in software programming training. My main focus revolves around Java and its Spring framework, where I apply Clean Architecture principles, Hexagonal Architecture, Onion Architecture, and the Model-View-Controller (MVC) design pattern to create high-quality software applications. I am also exploring web technologies like HTML, CSS, and JavaScript.
+🚀 Me apasiona escribir código limpio, automatizar procesos y entregar valor real al negocio. Trabajo con pipelines de CI/CD en Azure DevOps y despliego servicios en AWS (Lambda, S3, ECS). Aplico principios de arquitectura limpia (Hexagonal, Onion) y patrones como MVC para construir sistemas robustos y mantenibles.
 
-  <p>
-    🔍 Why I Work with Data 🔍
-  </p>
+🔧 También tengo experiencia en pruebas automatizadas, buenas prácticas de seguridad y colaboración en equipos multidisciplinarios bajo metodologías ágiles.
 
-  I firmly believe that data is one of an organization's most valuable assets and can unlock significant opportunities. My goal is to continue collaborating with multidisciplinary teams and using agile approaches like Scrum and Kanban to deliver successful projects.
+🎯 Actualmente, sigo fortaleciendo mis habilidades en frontend para ofrecer soluciones integrales de extremo a extremo.
 
-  <p>
-    🤝 Connect with Me 🤝
-  </p>
 
-  If you share my passion for data management, business intelligence, or software development, I would love to connect with you! Together, we can explore new opportunities and challenges in the world of data engineering.
+## Stack
 
-  Let's talk! 👥
+### Languages:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingaamira&layout=compact&show_icons=true&text_color=ffffff&bg_color=0d1117)](https://github.com/ingaamira?tab=repositories)
-  
-</h3>
+### Frameworks:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
-</h3>
+### Cloud and DevOps:
+#### AWS:
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=flat&logo=aws-lambda&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-%23907C5A.svg?style=flat&logo=amazon-s3&logoColor=white)
+![ECS](https://img.shields.io/badge/AWS%20ECS-%23232F3E.svg?style=flat&logo=amazon-ecs&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-%2300599C.svg?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-%23D04A02.svg?style=flat&logo=aws-step-functions&logoColor=white)
+#### Azure:
+![DevOps](https://img.shields.io/badge/Azure%20DevOps-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
-<h2 align="left">Environments | Skills | Tools</h2>
-<p>
-  <h3>Databases:</h3>
-  <div class="images">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-  </div>
+### Databases:
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-  <h3>Business Intelligence:</h3>
-  <div class="images">
-    <img src="https://learn.microsoft.com/es-es/power-bi/guidance/media/star-schema/star-schema-example2.png" alt="Star Schema" width="60" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://geekflare.com/wp-content/uploads/2022/08/differencebetweenstarandsnowflake.png" alt="ETL" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://softwareyhardware.com/wp-content/uploads/2019/05/Data-Warehouse-1024x525-1.png" alt="Data Warehouse" width="90" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Power BI" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://carlospesquera.com/wp-content/uploads/2020/02/multidimensional-vs-tabular.png" alt="Cubes" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://static.javatpoint.com/tutorial/ssis/images/ssis-tutorial.jpg" alt="SSIS" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://www.datanumen.com/blogs/wp-content/uploads/2018/01/ssas-tabular-model.jpg" alt="SSAS" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://www.axioworks.com/images/SSRS_logo_square.jpg" alt="SSRS" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-  </div>
+### Other Tools:
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%232196F3.svg?style=flat)
+![Agile](https://img.shields.io/badge/Agile-%2300ADD8.svg?style=flat)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%231572B6.svg?style=flat&logo=azure-devops&logoColor=white)
 
-  <h3>Programming:</h3>
-  <div class="images">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="Spring" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />                                
-  </div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ingaamira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ingaamira&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingaamira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  <h3>Web Development:</h3>
-  <div class="images">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />                  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />                            
-    <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="API" width="40" height="40" style="margin-bottom: 5px; padding-right: 5px" />
-  </div> 
-           
-  <h3>Clean Architectures and Design Patterns:</h3>
-  <div class="images">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*yR4C1B-YfMh5zqpbHzTyag.png" alt="Hexagonal Architecture" width="100" height="80" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://www.codeguru.com/wp-content/uploads/2021/07/Onion1.png" alt="Onion Architecture" width="100" height="80" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://www.campusmvp.es/recursos/image.axd?picture=/2019/4T/interaccion-m-v-c.png" alt="MVC" width="120" height="80" style="margin-bottom: 5px; padding-right: 5px" />
-  </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ingaamira&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-  <h3>Agile Methodologies:</h3>
-  <div class="images">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://4.bp.blogspot.com/--PXS0WUWpIg/UIq0uGN9JII/AAAAAAAAABM/SJ9CDQ3hSVg/s1600/abhishekS_agile1.JPG" alt="Agile" width="80" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-    <img src="https://socradar.io/wp-content/uploads/2022/07/devops-logo.png" alt="DevOps" width="100" height="50" style="margin-bottom: 5px; padding-right: 5px" />
-  </div>
-</p>
-
-<h2 align="left">Connect with me</h2>
-<p>
-    <a href="https://twitter.com/ingaamira" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-    alt="Twitter" height="30" width="40" style="margin-bottom: 5px; padding-right: 5px" />
-    </a>
-    <a href="https://linkedin.com/in/ingaamira" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="LinkedIn" height="30" width="40" style="margin-bottom: 5px; padding-right: 5px" />
-    </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
