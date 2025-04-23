@@ -1,6 +1,6 @@
 # About Me / Sobre Mí
 
-💻 I'm a Fullstack Developer with experience designing and developing scalable web applications using Java + Spring Boot, NestJS, and Angular. I’ve contributed to chatbot and AI-driven platforms powered by Natural Language Processing (NLP) and Machine Learning, integrating backend, frontend, and event-driven microservices.
+💻 I'm a Software Engineer with experience designing and developing scalable web applications using Java + Spring Boot, NestJS, and Angular. I’ve contributed to chatbot and AI-driven platforms powered by Natural Language Processing (NLP) and Machine Learning, integrating backend, frontend, and event-driven microservices.
 
 🚀 I'm passionate about clean code, automation, and delivering real business value. I work with CI/CD pipelines in Azure DevOps and deploy services on AWS (Lambda, S3, ECS). I follow clean architecture principles (Hexagonal, Onion) and design patterns like MVC to build robust and maintainable systems.
 
@@ -13,7 +13,7 @@ Let’s connect if you’re working on anything related to fullstack development
 ----
 ----
 
-💻 Soy Desarrollador Fullstack con experiencia en el diseño y desarrollo de aplicaciones web escalables utilizando Java + Spring Boot, NestJS y Angular. He participado en plataformas conversacionales impulsadas por Procesamiento de Lenguaje Natural (NLP) e Inteligencia Artificial, integrando backend, frontend y microservicios orientados a eventos.
+💻 Soy Ingeniero de Software con experiencia en el diseño y desarrollo de aplicaciones web escalables utilizando Java + Spring Boot, NestJS y Angular. He participado en plataformas conversacionales impulsadas por Procesamiento de Lenguaje Natural (NLP) e Inteligencia Artificial, integrando backend, frontend y microservicios orientados a eventos.
 
 🚀 Me apasiona escribir código limpio, automatizar procesos y entregar valor real al negocio. Trabajo con pipelines de CI/CD en Azure DevOps y despliego servicios en AWS (Lambda, S3, ECS). Aplico principios de arquitectura limpia (Hexagonal, Onion) y patrones como MVC para construir sistemas robustos y mantenibles.
 
